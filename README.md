@@ -12,4 +12,5 @@ csv表格中需为单列的视频链接
 导入到hitomi_downloader中，实现批量下载
 
 ![1684836721160](https://github.com/WRR2001/csv-hdt-transverter/assets/74068138/c0fd7b6e-0896-4205-bc88-27b210b550ab)
+
 关于hitomi_downloader：https://github.com/KurtBestor/Hitomi-Downloader
