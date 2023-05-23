@@ -5,7 +5,9 @@ csv表格中需为单列的视频链接
 
 ![1684836548089](https://github.com/WRR2001/csv-hdt-transverter/assets/74068138/7441caaa-b165-4d44-989d-b44666c52b47)
 
-如何获取一个博主的所有视频链接？这里有一个适配于bilibili的获取工具：https://github.com/WRR2001/bilibili-link-grabber/tree/master
+如何获取一个博主的所有视频链接？
+
+这里有一个适配于bilibili的获取工具：https://github.com/WRR2001/bilibili-link-grabber/tree/master
 
 通过转换之后就可以得到hdt文件
 
